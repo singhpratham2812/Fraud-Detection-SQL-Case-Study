@@ -205,8 +205,7 @@ A fraud analyst reviewing only Critical tier transactions would encounter fraud 
 ## Author
 
 **Pratham Singh**
-Risk & Business Analytics Professional | Noon · SkilloVilla
 
 - Email: pratham.singh2800@gmail.com
-- LinkedIn: *(your LinkedIn URL)*
+- LinkedIn: https://www.linkedin.com/in/prathamsingh9996/
 - Dataset: [Kaggle — PaySim Financial Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)
