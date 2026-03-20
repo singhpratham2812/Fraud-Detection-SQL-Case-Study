@@ -56,12 +56,7 @@ This project uses SQL to investigate those 84 cases — finding what makes them 
 The project is organised into 4 modules, each answering a different fraud question:
 
 ```
-fraud-detection-sql/
-├── README.md
-├── schema/
-│   └── schema_create_table.sql        ← database + table setup
-└── queries/
-    └── fraud_detection_analysis.sql   ← all 12 queries in one file
+
 ```
 
 ### Module 1 — Fraud Overview (Queries 1–3)
